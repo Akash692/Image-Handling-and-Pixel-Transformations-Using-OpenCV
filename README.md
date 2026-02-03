@@ -269,46 +269,46 @@ plt.axis("off")
 
 ## Output:
 # Display the image using Matplotlib
-<img width="361" height="501" alt="image" src="https://github.com/user-attachments/assets/40175d0d-914f-4315-baf9-7f1a2ca9ae33" />
+<img width="224" height="513" alt="image" src="https://github.com/user-attachments/assets/6304c3bd-60ee-4b8b-9fbf-b70f96a0bb80" />
+
+
 
 
 # Draw a line from top-left to bottom-right
-<img width="386" height="511" alt="image" src="https://github.com/user-attachments/assets/a050803a-c3c7-4005-8ab4-f1d5f2e9d75b" />
-<img width="379" height="504" alt="image" src="https://github.com/user-attachments/assets/de6829ec-3926-456f-a26b-b74db78bf2ee" />
-<img width="400" height="507" alt="image" src="https://github.com/user-attachments/assets/8f6d84ef-0884-4c99-9628-2fef13634058" />
-<img width="363" height="502" alt="image" src="https://github.com/user-attachments/assets/79f7bf36-b8b3-4b84-b3ec-04c078ac79ea" />
+<img width="236" height="510" alt="image" src="https://github.com/user-attachments/assets/2a277f6b-d311-4a75-a885-b3b1d1236da6" />
+<img width="236" height="499" alt="image" src="https://github.com/user-attachments/assets/3b71947a-1976-48d1-9598-2a65b6e8c2db" />
+<img width="251" height="494" alt="image" src="https://github.com/user-attachments/assets/fee233c5-6d12-4399-b479-eb1ef23d334f" />
+<img width="250" height="491" alt="image" src="https://github.com/user-attachments/assets/580996a1-5097-421c-8f27-f2e46af31dc2" />
+
+
 
 
 
 
 
 # HSV Image
-<img width="378" height="504" alt="image" src="https://github.com/user-attachments/assets/1fd24bec-c7c7-4d09-b703-c975c4f7e38e" />
+<img width="251" height="508" alt="image" src="https://github.com/user-attachments/assets/27ce81d9-3568-40fa-a29a-e8e9490af7cc" />
 
 
 
-# Grayscale Image
-<img width="381" height="511" alt="image" src="https://github.com/user-attachments/assets/b757ef15-01c2-4a30-a528-b58056208d79" />
-
-
-
-
+ 
 # YCrCb Image
-<img width="376" height="511" alt="image" src="https://github.com/user-attachments/assets/38b377e3-0b8f-4e7b-9a74-f1f507ff77fb" />
-<img width="394" height="506" alt="image" src="https://github.com/user-attachments/assets/1eeea70d-af43-4c41-9d3c-ff0be2cea01e" />
-<img width="505" height="506" alt="image" src="https://github.com/user-attachments/assets/59853f80-4e4d-4b41-b8ed-9ef1fc33f1b9" />
 
+<img width="239" height="514" alt="image" src="https://github.com/user-attachments/assets/653df3dd-ef9d-47ad-bda9-7460b492df5a" />
+
+<img width="324" height="524" alt="image" src="https://github.com/user-attachments/assets/25c8cdcd-48dc-46ce-87fe-5668a59731d4" />
 
 
 
 
 # Horizontal flip
-<img width="390" height="514" alt="image" src="https://github.com/user-attachments/assets/6e7d3161-6f60-4161-984e-d07e65f5ed15" />
+  
+<img width="246" height="504" alt="image" src="https://github.com/user-attachments/assets/6f3f72f4-7a0c-46fb-b738-e5c4a372d933" />
 
 
 
 # Vertical flip
-<img width="382" height="513" alt="image" src="https://github.com/user-attachments/assets/9f8e12ec-5579-4a3e-8bb7-7acbfc311403" />
+<img width="230" height="499" alt="image" src="https://github.com/user-attachments/assets/76b5bee5-0027-4f89-8cf3-570a04296e3f" />
 
 
 
