@@ -42,7 +42,7 @@ import matplotlib.pyplot as plt
 ```
 ## Read the image using OpenCV 
 ```PYTHON
-img = cv2.imread('ajay.jpeg', cv2.IMREAD_COLOR)
+img = cv2.imread('ab.jpeg', cv2.IMREAD_COLOR)
 ```
 ## Convert BGR (OpenCV's default) to RGB (Matplotlib's expected color order)#
 ```PYTHON
@@ -190,7 +190,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('ajay.jpeg') 
+image = cv2.imread('ab.jpeg') 
 image.shape
 (1536, 941, 3)
 ```
@@ -213,7 +213,7 @@ plt.show()
 ```
 ## Load the image
 ```PYTHON
-image = cv2.imread('ajay.jpeg') 
+image = cv2.imread('ab.jpeg') 
 image.shape
 (1536, 941, 3)
 ```
